@@ -1,10 +1,16 @@
 ChangeLog
 ---------
 
-### 1.13.3
+### Next Version
+
+- **New(js):** Supported full table classes of bootstrap v4.
 - **New(js):** Added `pageNumber` parameter to the server side pagination.
+- **New(css):** Rewrited bootstrap-table.css to scss.
 - **New(group-by-v2 extension):** New `groupByFormatter` option.
 - **New(pipeline extension):** New pipeline extension `bootstrap-table-pipeline`.
+- **Remove(js):** Removed `striped` option and use classes instead.
+- **Update:** Fixed `locale` option bug.
+- **Update:** Fixed `sortClass` option bug.
 
 ### 1.13.2
 
