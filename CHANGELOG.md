@@ -11,6 +11,8 @@ ChangeLog
 - **Remove(js):** Removed `striped` option and use classes instead.
 - **Update:** Fixed `locale` option bug.
 - **Update:** Fixed `sortClass` option bug.
+- **Update:** Fixed `sortStable` option cannot work bug.
+- **Update:** Improved built-in sort function and `customSort` logic.
 
 ### 1.13.2
 
