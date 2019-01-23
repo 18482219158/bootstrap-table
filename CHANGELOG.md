@@ -4,7 +4,6 @@ ChangeLog
 ### Next Version
 
 - **New(js):** Supported full table classes of bootstrap v4.
-- **New(js):** Added `pageNumber` parameter to the server side pagination.
 - **New(css):** Rewrited bootstrap-table.css to scss.
 - **New(group-by-v2 extension):** New `groupByFormatter` option.
 - **New(pipeline extension):** New pipeline extension `bootstrap-table-pipeline`.
